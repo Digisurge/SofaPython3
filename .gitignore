@@ -9,3 +9,4 @@ docs/sphinx/build/*
 docs/sphinx/source/*/generated
 docs/sphinx/source/*/*/generated
 docs/sphinx/source/*/*/*/generated
+ExternalProjectConfig.cmake.in
